@@ -1,7 +1,7 @@
 *.pyc
 __pycache__
+.vscode
 myenv
-how to install virtual and run virtual en
 db.sqlite3
 /static
 .DS_Store
